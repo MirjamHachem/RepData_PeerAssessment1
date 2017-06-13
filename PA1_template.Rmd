@@ -1,5 +1,5 @@
 ---
-title: "Reproducible Reserach - Activity Analysis"
+title: "Reproducible Research - Activity Analysis"
 author: "Mirjam Hachem"
 date: "8 juni 2017"
 output: 
