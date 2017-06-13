@@ -1,4 +1,4 @@
-Reproducible Reserach - Activity Analysis
+Reproducible Research - Activity Analysis
 ================
 Mirjam Hachem
 8 juni 2017
